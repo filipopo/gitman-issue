@@ -8,7 +8,7 @@ sparse_paths:
     - c
 ```
 
-Which should copy only `a` and `c` from the https://github.com/filipopo/gitman-issue-files repo but instead, when you run
+Which should copy only `a` and `c` from the [this repo](https://github.com/filipopo/gitman-issue-files) but instead, when you run
 
 ```
 pipx run --spec gitman==3.5.3 --pip-args regex==2024.9.11 gitman update
