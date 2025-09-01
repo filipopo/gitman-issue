@@ -1,0 +1,7 @@
+location: .
+sources:
+  - repo: https://github.com/filipopo/gitman-issue-files
+    rev: main
+    sparse_paths:
+      - a/
+      - c
