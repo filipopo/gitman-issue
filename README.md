@@ -135,3 +135,9 @@ sly.lex.PatternError: Invalid regex for token BLOCK_COMMENT
 ```
 
 </details>
+
+You can have a permanent installation with the injected regex version like this
+
+```
+pipx install gitman==3.5.2 --pip-args regex==2024.9.11
+```
