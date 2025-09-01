@@ -1,6 +1,6 @@
 # gitman-issue
 
-Demonstrates an issue that appeared in gitman v3.5.3 where the sparse_paths option no longer behaves as it should. The `gitman.yml` file in this repo has this set
+Demonstrates an [issue](https://github.com/jacebrowning/gitman/issues/363) that appeared in gitman v3.5.3 where the sparse_paths option no longer behaves as it should. The `gitman.yml` file in this repo has this set
 
 ```
 sparse_paths:
